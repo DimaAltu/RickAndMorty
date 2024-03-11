@@ -5,7 +5,8 @@
 
 - Language: Swift
 - Networking: Async/Await
-- Framework: UIKit
+- UI Framework: UIKit
+- Architecture: MVP
 
 ## Features
 1. Search
