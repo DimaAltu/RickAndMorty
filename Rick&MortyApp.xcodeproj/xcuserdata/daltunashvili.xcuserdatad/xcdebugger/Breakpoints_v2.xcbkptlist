@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5C94D07C-D995-416F-9A31-A52C7C5446D2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAE379AF-CFBC-47BA-BB5A-8DDAA240845F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7F4F575-7A34-49DD-9952-98792E04FA17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "updateSearchResults(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0D02655-815B-4116-891B-DAD823FD2863"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "moveToDetailsPage(characterModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38C32699-B00B-4552-AD33-7A552E322FEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "test_afterGetCharacter_Success_ShouldReloadList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38C32699-B00B-4552-AD33-7A552E322FEE - 438a4985ea7f4d9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacter_Success_ShouldReloadList() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "38C32699-B00B-4552-AD33-7A552E322FEE - 438a4985ea7f4d9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacter_Success_ShouldReloadList() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "38C32699-B00B-4552-AD33-7A552E322FEE - 438a4985ea7f4dbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacter_Success_ShouldReloadList() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "38C32699-B00B-4552-AD33-7A552E322FEE - 438a4985ea7f4ddd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacter_Success_ShouldReloadList() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFF2D988-A9F2-42A4-A65D-B866A33B3DD5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "test_afterGetCharacters_Failure_shouldShowErrorState()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFF2D988-A9F2-42A4-A65D-B866A33B3DD5 - d3ae234266fb227c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacters_Failure_shouldShowErrorState() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "EFF2D988-A9F2-42A4-A65D-B866A33B3DD5 - d3ae234266fb227c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacters_Failure_shouldShowErrorState() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "EFF2D988-A9F2-42A4-A65D-B866A33B3DD5 - d3ae234266fb221f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacters_Failure_shouldShowErrorState() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "EFF2D988-A9F2-42A4-A65D-B866A33B3DD5 - d3ae234266fb223e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacters_Failure_shouldShowErrorState() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "EFF2D988-A9F2-42A4-A65D-B866A33B3DD5 - d3ae234266fb23e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterGetCharacters_Failure_shouldShowErrorState() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28D69A6F-1AD7-4F6F-9A2D-86C2AA0EA51D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28D69A6F-1AD7-4F6F-9A2D-86C2AA0EA51D - a5d813a5925483dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyAppTests.CharactersListTests.setUp() -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "28D69A6F-1AD7-4F6F-9A2D-86C2AA0EA51D - a5d813a592548451"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyAppTests.CharactersListTests.setUp() -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F52FAB4-AD6E-4681-B70A-9C63501381DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "init(charactersUseCase:view:router:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACCA6F79-E3AF-45B4-A507-C7AC8287B650"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "setupSubViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACCA6F79-E3AF-45B4-A507-C7AC8287B650 - 42ea01a83a4f836f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsController.setupSubViews() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "ACCA6F79-E3AF-45B4-A507-C7AC8287B650 - 42ea01a83a4f82b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsController.setupSubViews() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7FDD0E2-95AD-4C49-B498-72C4855151ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Core/Services/RickAndMortyEpisode/RickAndMortyEpisodeGateway.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getEpisodeInfo(episodeNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7FDD0E2-95AD-4C49-B498-72C4855151ED - b8168c96695362f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyApp.ApiRickAndMortyEpisodeGateway.getEpisodeInfo(episodeNumber: Swift.Int) async -&gt; Swift.Result&lt;Rick_MortyApp.RickAndMortyEpisode, Rick_MortyApp.RequestError&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Core/Services/RickAndMortyEpisode/RickAndMortyEpisodeGateway.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "D7FDD0E2-95AD-4C49-B498-72C4855151ED - cbab87f580fbc876"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Rick_MortyApp.ApiRickAndMortyEpisode) -&gt; Rick_MortyApp.RickAndMortyEpisode in Rick_MortyApp.ApiRickAndMortyEpisodeGateway.getEpisodeInfo(episodeNumber: Swift.Int) async -&gt; Swift.Result&lt;Rick_MortyApp.RickAndMortyEpisode, Rick_MortyApp.RequestError&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Core/Services/RickAndMortyEpisode/RickAndMortyEpisodeGateway.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC58A748-BC70-4097-9738-283F680805C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "getEpisode(episodeNumber:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9616B5D-3335-4D8D-8578-51C1414C94C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "getEpisode(episodeNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9616B5D-3335-4D8D-8578-51C1414C94C6 - b2afdc087e515a95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharacterDetailsPresenterImpl.getEpisode(episodeNumber: Swift.Int) -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "E9616B5D-3335-4D8D-8578-51C1414C94C6 - a2249a7f79c65b59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsPresenterImpl.getEpisode(episodeNumber: Swift.Int) -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "E9616B5D-3335-4D8D-8578-51C1414C94C6 - f0832aec1e00063c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharacterDetailsPresenterImpl.getEpisode(episodeNumber: Swift.Int) -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E9616B5D-3335-4D8D-8578-51C1414C94C6 - c5445c99df531e36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharacterDetailsPresenterImpl.getEpisode(episodeNumber: Swift.Int) -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "196A9CC4-0B10-486D-A583-52143DEB9DB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "getEpisodeCharactersListData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "196A9CC4-0B10-486D-A583-52143DEB9DB8 - 5982d016cd9d49f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsPresenterImpl.getEpisodeCharactersListData() -&gt; Swift.Array&lt;Rick_MortyApp.CharacterDetailsEpisodeCharacterDataComposer&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "196A9CC4-0B10-486D-A583-52143DEB9DB8 - 34dd41208f3a88e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.Optional&lt;Rick_MortyApp.RickAndMortyCharacter&gt;) -&gt; Rick_MortyApp.CharacterDetailsEpisodeCharacterDataComposer in Rick_MortyApp.CharacterDetailsPresenterImpl.getEpisodeCharactersListData() -&gt; Swift.Array&lt;Rick_MortyApp.CharacterDetailsEpisodeCharacterDataComposer&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34CE98B6-FFB9-4724-BBCE-4AD8BEBB83E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "test_afterSearchingText_shouldShowAppropiateResults()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34CE98B6-FFB9-4724-BBCE-4AD8BEBB83E6 - 2a9762c6c468b9ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterSearchingText_shouldShowAppropiateResults() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "1516">
+               </Location>
+               <Location
+                  uuid = "34CE98B6-FFB9-4724-BBCE-4AD8BEBB83E6 - ce2b34b0f2417deb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterSearchingText_shouldShowAppropiateResults() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "34CE98B6-FFB9-4724-BBCE-4AD8BEBB83E6 - ce2b34b0f2417deb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterSearchingText_shouldShowAppropiateResults() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "34CE98B6-FFB9-4724-BBCE-4AD8BEBB83E6 - ce2b34b0f2417da9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_afterSearchingText_shouldShowAppropiateResults() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C606F2A2-2869-450F-B674-830F2BDEEE5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "searchedText"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C606F2A2-2869-450F-B674-830F2BDEEE5D - e746c6472afacc2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.searchedText.didset : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C606F2A2-2869-450F-B674-830F2BDEEE5D - e746c6472afacc50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.searchedText.didset : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C606F2A2-2869-450F-B674-830F2BDEEE5D - e746c6472afacc71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.searchedText.didset : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2D41D0B-8ED8-47A0-9887-7B28696F83FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyAppTests/CharactersListTests/RickAndMortyCharactersUseCaseSpy.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getCharacters(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E0AABA8-7809-4CAB-B587-74308042869A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "test_TestSearch_CombinedWith_Filtering()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E0AABA8-7809-4CAB-B587-74308042869A - d1e7329c44ce2489"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_TestSearch_CombinedWith_Filtering() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+               <Location
+                  uuid = "4E0AABA8-7809-4CAB-B587-74308042869A - d1e7329c44ce2489"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_TestSearch_CombinedWith_Filtering() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "1104">
+               </Location>
+               <Location
+                  uuid = "4E0AABA8-7809-4CAB-B587-74308042869A - d1e7329c44ce24cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Rick_MortyAppTests.CharactersListTests.test_TestSearch_CombinedWith_Filtering() async -&gt; ()"
+                  moduleName = "Rick&amp;MortyAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "1104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D90A066B-894E-4F96-A1DE-2054D9B84185"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F0EA574-1DB7-4455-A3AA-E3F0C6B5FEE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F0EA574-1DB7-4455-A3AA-E3F0C6B5FEE1 - a787933a2fad3a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "3728">
+               </Location>
+               <Location
+                  uuid = "3F0EA574-1DB7-4455-A3AA-E3F0C6B5FEE1 - 9a830d7d0786facf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Rick_MortyApp.CharacterDetailsController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54FF758C-E643-4F1E-AFB8-91176E0D0155"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "getSearchedCharacterList(by:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54FF758C-E643-4F1E-AFB8-91176E0D0155 - e698ff0deaaa7e15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.getSearchedCharacterList(by: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "54FF758C-E643-4F1E-AFB8-91176E0D0155 - 5c749777523abbd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Rick_MortyApp.RickAndMortyCharacter) -&gt; Swift.Bool in Rick_MortyApp.CharactersListPresenterImpl.getSearchedCharacterList(by: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "54FF758C-E643-4F1E-AFB8-91176E0D0155 - e698ff0deaaa7e15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.getSearchedCharacterList(by: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "54FF758C-E643-4F1E-AFB8-91176E0D0155 - e698ff0deaaa71eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.getSearchedCharacterList(by: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3C5EC08-BAEA-41E9-9620-5D0460D17C45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "getFilteredCharacterList(items:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3C5EC08-BAEA-41E9-9620-5D0460D17C45 - 5a2244aafd93b3a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.getFilteredCharacterList(items: Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;) -&gt; Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "D3C5EC08-BAEA-41E9-9620-5D0460D17C45 - 5a2244aafd93b3a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.getFilteredCharacterList(items: Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;) -&gt; Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "D3C5EC08-BAEA-41E9-9620-5D0460D17C45 - 5a2244aafd93b361"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.getFilteredCharacterList(items: Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;) -&gt; Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DE0F98E-E9AE-422D-B099-EF01CE4AC7FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyAppTests/CharactersListTests/CharactersListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "test_afterGetCharactersSuccess_withEmptyList_shouldShowEmptyView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "312075A1-FA96-431B-BE0F-7383C3631A2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "312075A1-FA96-431B-BE0F-7383C3631A2E - 6b7339b28a2d80aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "257"
+                  endingLineNumber = "257"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "312075A1-FA96-431B-BE0F-7383C3631A2E - 6b7339b28a2d80aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "257"
+                  endingLineNumber = "257"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "312075A1-FA96-431B-BE0F-7383C3631A2E - 6b7339b28a2d804b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "312075A1-FA96-431B-BE0F-7383C3631A2E - 6b7339b28a2d8009"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharacterDetailsController.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharacterDetails/CharacterDetailsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2887934-EDBC-4E2B-B075-F5CC7FBFCD49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "reloadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C107A378-51D2-4D90-AF45-B81CEDC2AB1D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "reloadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C107A378-51D2-4D90-AF45-B81CEDC2AB1D - 6f44b16a566fc3a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.reloadData() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "C107A378-51D2-4D90-AF45-B81CEDC2AB1D - 6f44b16a566fc3a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_MortyApp.CharactersListPresenterImpl.reloadData() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F013D5E1-4483-484D-811D-1187C7539C08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "getCharacters()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F013D5E1-4483-484D-811D-1187C7539C08 - a4c517c54bcc6cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "F013D5E1-4483-484D-811D-1187C7539C08 - a4c517c54bcc6cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "F013D5E1-4483-484D-811D-1187C7539C08 - a4c517c54bcc6cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "1300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64CD3C8E-8024-4F3C-9948-D2B9BF099B73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "saveReceivedCharacters(characters:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64CD3C8E-8024-4F3C-9948-D2B9BF099B73 - 637ba6b342e8ff08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Rick_MortyApp.CharactersListPresenterImpl.saveReceivedCharacters(characters: Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;) async -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "64CD3C8E-8024-4F3C-9948-D2B9BF099B73 - ee7ad22db7ce819"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout Swift.Dictionary&lt;Swift.Int, Rick_MortyApp.RickAndMortyCharacter&gt;, Rick_MortyApp.RickAndMortyCharacter) -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.saveReceivedCharacters(characters: Swift.Array&lt;Rick_MortyApp.RickAndMortyCharacter&gt;) async -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68500609-B969-407E-9602-0BB177BE8F4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "getCharacters()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68500609-B969-407E-9602-0BB177BE8F4D - 3f7322b0bd13502e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "68500609-B969-407E-9602-0BB177BE8F4D - 8777f94d5946a829"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "68500609-B969-407E-9602-0BB177BE8F4D - a4c517c54bcc6c10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCA379E1-CF6A-401B-A48F-F565371662BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Core/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "saveCharacters(characters:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F489D23-9F60-49AD-9708-FF8340B13D91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "getCharacters()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F489D23-9F60-49AD-9708-FF8340B13D91 - a4c517c54bcc6f4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "8F489D23-9F60-49AD-9708-FF8340B13D91 - 7f030f87a37f8771"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "8F489D23-9F60-49AD-9708-FF8340B13D91 - cd96c51650a52b48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Rick_MortyApp.CharactersListPresenterImpl.getCharacters() -&gt; ()"
+                  moduleName = "Rick&amp;MortyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daltunashvili/Desktop/Rick&amp;MortyApp/Rick&amp;MortyApp/Scenes/CharactersList/CharactersListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
